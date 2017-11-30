@@ -1,0 +1,15 @@
+com/test/ws/DBTest/category.class
+com/test/ws/DBTest/Application.class
+com/test/ws/DBTest/CasePeopleRepository.class
+com/test/ws/DBTest/Case_person_desig.class
+com/test/ws/DBTest/CaseChannels.class
+com/test/ws/DBTest/case_status.class
+com/test/ws/DBTest/CaseCompanies.class
+com/test/ws/DBTest/CaseChannelsRepository.class
+com/test/ws/DBTest/MainController.class
+com/test/ws/DBTest/App.class
+com/test/ws/DBTest/CasePeople.class
+com/test/ws/DBTest/CaseInformationRepository.class
+com/test/ws/DBTest/User.class
+com/test/ws/DBTest/CaseInformation.class
+com/test/ws/DBTest/OracleConnectionSample.class
